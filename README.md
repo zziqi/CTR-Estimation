@@ -8,7 +8,8 @@ Please cite our survey paper if this index is helpful.
 @article{zhang2021deep,
   title={Deep learning for click-through rate estimation},
   author={Zhang, Weinan and Qin, Jiarui and Guo, Wei and Tang, Ruiming and He, Xiuqiang},
-  journal={arXiv preprint arXiv:2104.10584},
+  booktitle = {Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence, {IJCAI} 2021, Virtual Event / Montreal, Canada, 19-27 August 2021},
+  pages = {4695--4703},
   year={2021}
 }
 ```
